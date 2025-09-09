@@ -1,3 +1,9 @@
+www.netflix.com
+www.netflix.net
+www.nflxso.net
+www.nflxext.com
+www.nflxvideo.net
+www.nflximg.com
 .netflix.com
 .netflix.net
 .nflxso.net
@@ -5,3 +11,4 @@
 .nflxvideo.net
 .nflximg.com
 .1.oca.nflxvideo.net
+
