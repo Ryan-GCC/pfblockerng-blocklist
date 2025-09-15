@@ -1,0 +1,4 @@
+ardownload.adobe.com
+ardownload2.adobe.com
+ardownload3.adobe.com
+officecdn.microsoft.com
