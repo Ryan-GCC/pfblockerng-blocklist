@@ -1,4 +1,5 @@
 ardownload.adobe.com
 ardownload2.adobe.com
 ardownload3.adobe.com
+oneclient.sfx.ms
 officecdn.microsoft.com
