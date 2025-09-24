@@ -18,3 +18,4 @@ push.prod.netflix.com
 
 #DisneyPlus
 vod-hulu-ftc-na.media.dssott.com
+vod-hulu-akc-na.media.dssott.com
