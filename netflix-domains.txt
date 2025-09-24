@@ -1,3 +1,4 @@
+#Netflix
 www.netflix.com
 www.netflix.net
 www.nflxso.net
@@ -14,3 +15,6 @@ www.nflximg.com
 ipv4-c269-sea001-ix.1.oca.nflxvideo.net 
 .prod.netflix.com
 push.prod.netflix.com
+
+#DisneyPlus
+vod-hulu-ftc-na.media.dssott.com
